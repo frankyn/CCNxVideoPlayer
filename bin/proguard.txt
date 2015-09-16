@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:16
+-keep class org.ccnx.videoplayer.CCNVideoPlayer { <init>(...); }
+
+# view AndroidManifest.xml #generated:9
+-keep class org.ccnx.videoplayer.StartScreen { <init>(...); }
+

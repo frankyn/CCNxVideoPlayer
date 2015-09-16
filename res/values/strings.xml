@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="introduction">
+    CCN Video Player is a research tool for developing a video player using a CCN network.
+    </string>
+    <string name="app_name">CCN Video Player</string>
+</resources>

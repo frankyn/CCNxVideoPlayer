@@ -1,0 +1,21 @@
+/home/ccnx/Documents/ccnx-0.8.1/android/apps/CCN-VideoPlayer/bin/CCN-VideoPlayer.ap_ \
+ : /home/ccnx/Documents/ccnx-0.8.1/android/CCNx-Android-Lib/res/drawable-mdpi/icon.png \
+/home/ccnx/Documents/ccnx-0.8.1/android/CCNx-Android-Lib/res/drawable-hdpi/icon.png \
+/home/ccnx/Documents/ccnx-0.8.1/android/CCNx-Android-Lib/res/drawable-ldpi/icon.png \
+/home/ccnx/Documents/ccnx-0.8.1/android/CCNx-Android-Lib/res/values/strings.xml \
+/home/ccnx/Documents/ccnx-0.8.1/android/CCNx-Android-Lib/res/layout/main.xml \
+/home/ccnx/Documents/ccnx-0.8.1/android/CCNx-Android-Lib/bin/res/drawable-mdpi/icon.png \
+/home/ccnx/Documents/ccnx-0.8.1/android/CCNx-Android-Lib/bin/res/drawable-hdpi/icon.png \
+/home/ccnx/Documents/ccnx-0.8.1/android/CCNx-Android-Lib/bin/res/drawable-ldpi/icon.png \
+/home/ccnx/Documents/ccnx-0.8.1/android/apps/CCN-VideoPlayer/res/drawable-mdpi/icon.png \
+/home/ccnx/Documents/ccnx-0.8.1/android/apps/CCN-VideoPlayer/res/drawable-hdpi/icon.png \
+/home/ccnx/Documents/ccnx-0.8.1/android/apps/CCN-VideoPlayer/res/drawable-ldpi/icon.png \
+/home/ccnx/Documents/ccnx-0.8.1/android/apps/CCN-VideoPlayer/res/values/strings.xml \
+/home/ccnx/Documents/ccnx-0.8.1/android/apps/CCN-VideoPlayer/res/drawable-xhdpi/icon.png \
+/home/ccnx/Documents/ccnx-0.8.1/android/apps/CCN-VideoPlayer/res/layout/starter.xml \
+/home/ccnx/Documents/ccnx-0.8.1/android/apps/CCN-VideoPlayer/res/layout/main.xml \
+/home/ccnx/Documents/ccnx-0.8.1/android/apps/CCN-VideoPlayer/bin/res/drawable-mdpi/icon.png \
+/home/ccnx/Documents/ccnx-0.8.1/android/apps/CCN-VideoPlayer/bin/res/drawable-hdpi/icon.png \
+/home/ccnx/Documents/ccnx-0.8.1/android/apps/CCN-VideoPlayer/bin/res/drawable-ldpi/icon.png \
+/home/ccnx/Documents/ccnx-0.8.1/android/apps/CCN-VideoPlayer/bin/res/drawable-xhdpi/icon.png \
+/home/ccnx/Documents/ccnx-0.8.1/android/apps/CCN-VideoPlayer/bin/AndroidManifest.xml \

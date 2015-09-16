@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+<TextView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="@string/introduction"
+    android:padding="0pt"
+    />
+    
+  <TextView  
+      android:layout_width="fill_parent" 
+      android:layout_height="wrap_content" 
+      android:text="CCN IP"
+      android:padding="0pt"
+      />
+  <EditText android:text="192.168.0.1" 
+                android:inputType="text" 
+                android:layout_height="wrap_content" 
+                android:id="@+id/inputIP"
+                android:textSize="30px" 
+                android:layout_width="fill_parent" 
+                android:layout_gravity="center_horizontal"></EditText>
+  <TextView  
+      android:layout_width="fill_parent" 
+      android:layout_height="wrap_content" 
+      android:text="CCN Port"
+      android:padding="0pt"
+      />
+  <EditText android:text="9695" 
+                android:inputType="text" 
+                android:layout_height="wrap_content" 
+                android:id="@+id/inputPort"
+                android:textSize="30px" 
+                android:layout_width="fill_parent" 
+                android:layout_gravity="center_horizontal"></EditText>    
+  <TextView  
+      android:layout_width="fill_parent" 
+      android:layout_height="wrap_content" 
+      android:text="Video File URL"
+      android:padding="0pt"
+      />
+  <EditText android:text="ccnx:/icn/fileName" 
+                android:inputType="text" 
+                android:layout_height="wrap_content" 
+                android:id="@+id/videoURL"
+                android:textSize="30px" 
+                android:layout_width="fill_parent" 
+                android:layout_gravity="center_horizontal"></EditText>
+  <TextView  
+      android:layout_width="fill_parent" 
+      android:layout_height="wrap_content" 
+      android:text="Security File URL"
+      android:padding="0pt"
+      />
+  <EditText android:text="ccnx:/ccn1/android/sharegen" 
+                android:inputType="text" 
+                android:layout_height="wrap_content" 
+                android:id="@+id/securityURL"
+                android:textSize="30px" 
+                android:layout_width="fill_parent" 
+                android:layout_gravity="center_horizontal"></EditText>
+  <TextView  
+      android:layout_width="fill_parent" 
+      android:layout_height="wrap_content" 
+      android:text="Polynomial Degree"
+      android:padding="0pt"
+      />
+  <EditText android:text="500000" 
+                android:inputType="text" 
+                android:layout_height="wrap_content" 
+                android:id="@+id/poly_size"
+                android:textSize="30px" 
+                android:layout_width="fill_parent" 
+                android:layout_gravity="center_horizontal"></EditText>
+
+  <TextView  
+      android:layout_width="fill_parent" 
+      android:layout_height="wrap_content" 
+      android:text="X"
+      android:padding="0pt"
+      />
+  <EditText android:text="500099" 
+                android:inputType="text" 
+                android:layout_height="wrap_content" 
+                android:id="@+id/point_x"
+                android:textSize="30px" 
+                android:layout_width="fill_parent" >
+  </EditText>
+  <TextView  
+      android:layout_width="fill_parent" 
+      android:layout_height="wrap_content" 
+      android:text="Y"
+      android:padding="0pt"
+      />
+  <EditText android:text="21238915" 
+                android:inputType="text" 
+                android:layout_height="wrap_content" 
+                android:id="@+id/point_y"
+                android:textSize="30px" 
+                android:layout_width="fill_parent"> 
+  </EditText>
+<Button 
+	android:id="@+id/btnDownloadandPlay" 
+	android:layout_marginTop="20px"
+	android:layout_width="wrap_content" 
+	android:layout_height="wrap_content"
+	android:text="Play Video" >
+</Button>
+	
+</LinearLayout>
